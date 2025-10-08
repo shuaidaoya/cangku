@@ -109,7 +109,7 @@
     "name": "樱花资源",
     "url": "https://m3u8.apiyhzy.com/api.php/provide/vod",
     "isEnabled": true
-  }
+  },
     {
     "id": "source19",
     "name": "百度云资源",
@@ -134,4 +134,5 @@
     "url": "https://ikunzyapi.com/api.php/provide/vod",
     "isEnabled": true
   }
+
 ]
